@@ -1,0 +1,10 @@
+.contact-header{
+  background: #FFFFFF url("../Provided/images/ramblerheader.jpg") no-repeat center bottom;
+  background-size: cover;
+  height: 332px;
+  padding-bottom: 145px;
+}
+
+.chalk-board {
+  background: #FFFFFF url("../Provided/images/chalk-board-backgrounds_03.jpg") no-repeat center top;
+}
