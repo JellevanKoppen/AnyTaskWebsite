@@ -50,6 +50,16 @@ html {
   height: 10rem;
 }
 
+#maps-overlay {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%,0);
+  background-color: white !important;
+  border-radius: .25rem;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
 /* Custom colors */
 .bg-custom{
   background-color: #477563 !important;
@@ -58,7 +68,6 @@ html {
 .bg-custom-light{
   background-color: #aec1b4 !important;
 }
-
 
 .text-custom {
   color: #477563 !important;
